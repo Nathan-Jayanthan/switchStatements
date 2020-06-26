@@ -9,7 +9,7 @@ public class Main {
         switch (age){
             case 1:
                 System.out.println("crawl");
-                break; //test
+                break; //testb HEKKI
             case 2:
                 System.out.println("talk");
                 break;
